@@ -5,8 +5,10 @@ body{
 }
 h1{
     font-size: 50px;
-
-}         
+}   
+h2{
+    font-size: 30px;
+}      
 .orange-color{
     color: orange
 }      
@@ -39,4 +41,32 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+h3{
+    color: orange;
+}
+.web-developer{
+    background-image: url(images/exp-bg.png);
+    background-repeat:no-repeat;
+    background-position: left;
+}
+
+.montu-mia{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+#web-old{
+    border-left: 7px solid tomato ;
+}
+#web-baby{
+    border-left: 7px solid blue;
+}
+footer{
+    text-align: center;
+    text-shadow: 5px grey;
+}
+    
           
